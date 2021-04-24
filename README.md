@@ -1,5 +1,5 @@
 # Introduction
-Config files for my GitHub profile.
+
 👋 Hi, I’m Junzhou Lin@jlin157
 
 👀 I’m interested in Forcasting, ML model, Financial Model
